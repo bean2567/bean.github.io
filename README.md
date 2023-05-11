@@ -78,7 +78,7 @@
 									<span class="date">April 25, 2017</span>
 									<h1>This is a<br>
 									Generic Page</h1>
-									<p>am new here<br>welcoome<br>welcome.</p>
+									<p>am new here<br>covers both business studies and computing from a commercial or business perspective<br>welcome.</p>
 								</header>
 								<div class="image main"><img src="images/pic01.jpg" alt=""></div>
 								<p>Hello! As a business computing student, you possess a unique blend of skills that combine business knowledge with computing expertise. With a strong foundation in both realms, you are well-equipped to navigate the rapidly evolving digital landscape. Here's an introduction highlighting your computing and software skills:As a dedicated business computing student, I bring a comprehensive set of skills that merge the worlds of business and technology. With a solid understanding of core computing concepts, I am proficient in various programming languages such as Python, Java, and C++, allowing me to develop robust software solutions to meet diverse business needs..</p>
